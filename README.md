@@ -1,7 +1,7 @@
 ## Bioinformatics-Tools ##
 
 ### Description ###
-This is meant to be a repository for bioinformatics resources that I have found helpful in my analyses. I will do my best to organize them in a logical fashion...
+This is meant to be a repository for bioinformatics resources that I have found helpful in my analyses. I will do my best to organize them in a logical fashion. For my pipelines: please see alternative repository. 
 
 ### Useful Databases ###
 - [Plant Transcription Factor Database](http://planttfdb.gao-lab.org/download.php)
