@@ -6,6 +6,7 @@ This is meant to be a repository for bioinformatics resources that I have found 
 ### Useful Databases ###
 - [Plant Transcription Factor Database](http://planttfdb.gao-lab.org/download.php)
 - [Fungal Secretome Database](http://proteomics.ysu.edu/secretomes/fungi.php)
+- [Fungal Transcription Factor Database](http://ftfd.snu.ac.kr/index.php?a=view)
 
 
 ### Online Protein Prediction Tools ###
